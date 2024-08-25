@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite,,,,26-08-2024 01:13:30,26-08-2024 01:13:44,14.139s,FAILED
+,,,,,,,
+Test Cases/Auto,,,,26-08-2024 01:13:36,26-08-2024 01:13:36,0.821s,FAILED
+"openBrowser("""")",,,,26-08-2024 01:13:36,26-08-2024 01:13:36,0.794s,FAILED
+,,,,,,,
+Test Cases/Manual,,,,26-08-2024 01:13:40,26-08-2024 01:13:41,1.229s,FAILED
+"openBrowser("""")",,,,26-08-2024 01:13:40,26-08-2024 01:13:41,1.212s,FAILED
+,,,,,,,
+Test Cases/Script,,,,26-08-2024 01:13:43,26-08-2024 01:13:44,0.928s,FAILED
+"openBrowser("""")",,Open Browser,,26-08-2024 01:13:43,26-08-2024 01:13:44,0.909s,FAILED
